@@ -28,7 +28,7 @@ Vogue-Fashion is created for everyone who breathes style. Whether you are a mini
 
 Join our growing community of fashion lovers and stay updated with our latest releases and editorials:
 
-- **Website:** [vogue-fashion.github.io](#)
+- **Website:** [vogue-fashion.github.io](https://vogue-fashion.github.io)
 - **Email:** info@vogue-fashion.github.io
 
 ---
